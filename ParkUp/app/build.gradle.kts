@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.eldroid.parkup"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.eldroid.parkup"
